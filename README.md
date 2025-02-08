@@ -13,7 +13,7 @@ Hi, I'm Max. I'm currently pursuing a Ph.D. in the Geography Department at UTK. 
 - Programming: I’m skilled in Python for data analysis and am currently learning C# to develop extension tools for ArcGIS Pro.
 
 # Social Media Links
-- LinkedIn: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/hsiang-chun-chen-528886202/))
+- LinkedIn: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hsiang-chun-chen-528886202/)
 
 <!--
 **GGweelplay/GGweelplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
